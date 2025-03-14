@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotheque SYSTEM "bibliotheque.dtd">
+
+
+
+<Library>
+    <Book state="Lu">
+        <informations>
+            <Title>La Première Loi</Title>
+            <Author>Joe Abercrombie</Author>
+            <Category>Fantasy</Category>
+            <Publisher>Bragelonne</Publisher>
+            <Publishdate>2007</Publishdate>
+            <page_length>621</page_length>
+        </informations>
+        <commentaire>Un récit sombre et captivant avec des personnages mémorables.</commentaire>
+        <note>9</note>
+    </Book>
+</Library>
